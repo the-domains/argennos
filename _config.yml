@@ -1,6 +1,6 @@
 name: Argennos
 favicon: null
-layout_spectrum: 0.1283051783684641
+layout_spectrum: 1
 typography_spectrum: 0.3830215020570904
 title: Natural Soaps & Cosmetics
 cta:
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7211854131892323
-  lightness: 0.9113068135920912
-  saturation: 0.9492836804129183
-  rhythmicContrast: 0.7652382946107537
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
